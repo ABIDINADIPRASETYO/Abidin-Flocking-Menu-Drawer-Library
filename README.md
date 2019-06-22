@@ -12,13 +12,24 @@ You can easily add a fully customized Navigation Tab Bar (Bottom/Top/Left/Right)
 ---
 
 
-### Adding TabDrawer Library
+### Adding Flocking Menu Drawer Library
 **Gradle**  *(through JCenter)*
 
-Simply add `compile 'com.ashazar.tabdrawer:tabdrawer:1.1.0'` in *dependencies* in your app's `build.gradle` file
+First add the JitPack repository to your build file 
+
+Add it in your root build.gradle at the end of repositories:
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+Then add `implementation 'com.github.ABIDINADIPRASETYO:Abidin-Flocking-Menu-Drawer-Library:1.0.0'` in *dependencies* in your app's `build.gradle` file
 ```
 dependencies {
-    compile 'com.ashazar.tabdrawer:tabdrawer:1.1.0'
+    implementation 'com.github.ABIDINADIPRASETYO:Abidin-Flocking-Menu-Drawer-Library:1.0.0'
 }
 ```
 
