@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Abidin Flocking Menu Drawer</string>
+
+    <string name="main_activity_text">Here is your Homepage /\nIni Halaman Utama Aplikasi Anda</string>
+    <string name="top_tabdrawer_text">Here is your Homepage /\nIni Halaman Utama Aplikasi Anda</string>
+    <string name="bottom_tabdrawer_text">Here is your Homepage /\nIni Halaman Utama Aplikasi Anda</string>
+    <string name="left_tabdrawer_text">Here is your Homepage /\nIni Halaman Utama Aplikasi Anda</string>
+    <string name="right_tabdrawer_text">Here is your Homepage /\nIni Halaman Utama Aplikasi Anda</string>
+</resources>

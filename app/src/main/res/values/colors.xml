@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2193b0</color>
+    <color name="colorPrimaryDark">#2193b0</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tabTitle">#262626</color>
+    <color name="tabTitle_selected">#ffffff</color>
+    <color name="tabBackground">#ffffff</color>
+    <color name="tabBackground_selected">#262626</color>
+    <color name="black">#00080A</color>
+    <color name="blackSpotify">#191414</color>
+    <color name="blacgrey">#262626</color>
+    <color name="blueapp">#2193b0</color>
+</resources>
