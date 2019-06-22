@@ -1,7 +1,6 @@
 # Abidin-Flocking-Menu-Drawer-Library
 
-Android Navigation Tab Bar with Drawer - Alternative to Navigation Drawer *(Hamburger Menu)*
-
+Android Navigation Menu Drawer with Flocking Sub Menu
 
 ![Alt text](https://github.com/ABIDINADIPRASETYO/Abidin-Flocking-Menu-Drawer-Library/blob/master/demo/demogif.gif "Infinite Scrollbar Menu Android")
 
