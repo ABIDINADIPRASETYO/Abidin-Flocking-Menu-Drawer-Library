@@ -36,7 +36,7 @@ dependencies {
 ```
 * Place TabDrawerLayout as last child of root RelativeLayout. *(Attribute explanations table for TabDrawerLayout is below the instructions)*
 ```
-    <com.ashazar.tabdrawer.TabDrawerLayout
+    <com.example.abidinflockingmenulib.TabDrawerLayout
         android:id="@+id/tabDrawer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
