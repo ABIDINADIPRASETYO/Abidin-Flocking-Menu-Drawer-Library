@@ -3,10 +3,7 @@
 Android Navigation Tab Bar with Drawer - Alternative to Navigation Drawer *(Hamburger Menu)*
 
 
-| ![Demo](https://github.com/ashazar/TabDrawer/raw/master/images/tabdrawer_demo.gif) | ![Demo_TabBar](https://github.com/ashazar/TabDrawer/raw/master/images/tabdrawer_demo_tabbar.gif) | ![Demo_Custom_TabDrawer](https://github.com/ashazar/TabDrawer/raw/master/images/tabdrawer_demo_custom.gif) |
-|----------|----------------------|--------------------|
-| **Demo** | **Standard Tab Bar** | **Custom Layouts** |
-
+![Alt text](https://github.com/ABIDINADIPRASETYO/Abidin-Flocking-Menu-Drawer-Library/blob/master/demo/demogif.gif "Infinite Scrollbar Menu Android")
 
 TabDrawer is an Open Source library for Android apps; combining the Navigation Tab Bar and a much user-friendly alternative to Navigation Drawer (Hamburger Menu)
 
