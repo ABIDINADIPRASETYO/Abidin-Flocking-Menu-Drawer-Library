@@ -4,7 +4,7 @@ Android Navigation Menu Drawer with Flocking Sub Menu
 
 ![Alt text](https://github.com/ABIDINADIPRASETYO/Abidin-Flocking-Menu-Drawer-Library/blob/master/demo/demogif.gif "Infinite Scrollbar Menu Android")
 
-TabDrawer is an Open Source library for Android apps; combining the Navigation Tab Bar and a much user-friendly alternative to Navigation Drawer (Hamburger Menu)
+Flocking Menu Drawer is an Open Source library for Android apps; combining the Navigation Tab Bar and a much user-friendly alternative to Navigation Drawer (Hamburger Menu)
 
 You can easily add a fully customized Navigation Tab Bar (Bottom/Top/Left/Right), and a drawer for each tab that contains lists for navigating to different sections of the app.
 
